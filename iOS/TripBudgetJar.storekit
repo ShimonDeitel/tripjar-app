@@ -1,0 +1,42 @@
+{
+  "identifier": "tripjar",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Trip Budget Jar Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "tripjar_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited trip budgets, category breakdowns, and export.",
+              "displayName": "Trip Budget Jar Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "tripjar_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Trip Budget Jar Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
